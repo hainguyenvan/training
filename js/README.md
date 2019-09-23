@@ -94,3 +94,7 @@ Phần này chỉ cần dịch ra tiếng Việt là được push lên Github.
 - Async và Await:
 - Yield / Next:
 - Một số cấu trúc dữ liệu mới WeakMap, WeakSet
+
+## Refs
+* https://www.tutorialspoint.com/javascript/javascript_objects.htm
+* https://www.w3schools.com/js/
