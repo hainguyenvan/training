@@ -27,17 +27,5 @@
 * Note
     * Các bạn tạo account ở link [https://github.com/] để thực hành nhé
 
-## 4. Link bài test
-* Host: http://training.sun-asterisk.vn
-
-* Account: Sử dụng mail công ty (nếu có) hoặc mail cá nhân đăng ký với HR để đăng ký account
-
-* Lưu ý: Đặt tên giống với chatwork
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Ruby 03
-  Vị trí: Open Education
-  Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
-```
+# Refs
+* https://github.com/framgia/Training-Guideline/tree/master/Git

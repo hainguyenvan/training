@@ -32,17 +32,5 @@
    * For SQL: https://drive.google.com/file/d/0B0ou6iiiqu_ibGdIVWo2a1NYQWM/view
    * For Mysql: https://drive.google.com/file/d/1J3G4kAVaZjG4q6miTV4ueEunR6ZXh2DR/view?usp=sharing
 
-## 4. Link bài test:
-* Host: http://training.sun-asterisk.vn
-
-* Account: Các bạn tự tạo bằng mail đăng ký với HR
-
-* Lưu ý: Đặt tên giống với chatwork
-```
-Ví dụ:
-  Họ và tên: Nguyễn Văn A
-  Khóa: Ruby 03
-  Vị trí: Open Education
-  Văn Phòng: Đà Nẵng
-  Tên tài khoản: [DN_OE03_Ruby]Nguyen Van A
-```
+# Refs
+* https://github.com/framgia/Training-Guideline/tree/master/mysql
