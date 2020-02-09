@@ -1,5 +1,5 @@
 # JavaScript by Examples
-| Tài liệu training js
+| Tổng hợp tài liệu training js
 
 ## 1. Cài đặt, cấu hình môi trường
 
